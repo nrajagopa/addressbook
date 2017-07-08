@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Addressbook Tutorial
 ====================
 Adding change to the local read me file for testing the devops pipeline
@@ -97,3 +98,6 @@ To use the built in server adapters of Eclipse, instead of doing "Run As -> Mave
 * Adjust paths in build.xml/build.properties as per your local configuration
 
 *** End of documentation
+=======
+# addressbook
+>>>>>>> d7fe8ef11dd7cf4083391ce91927b564fd548032
